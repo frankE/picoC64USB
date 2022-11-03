@@ -1,0 +1,4 @@
+[submodule "lib/tinyusb"]
+	path = lib/tinyusb
+	url = https://github.com/frankE/tinyusb.git
+	branch = add-xbox-one-gamepad-host-driver
