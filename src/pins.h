@@ -5,11 +5,11 @@
 #ifndef PICOC64USB_PINS_H
 #define PICOC64USB_PINS_H
 
-#define PORT1_PIN_FIRE   17
+#define PORT1_PIN_FIRE   19
 #define PORT1_PIN_UP     20
 #define PORT1_PIN_DOWN   18
-#define PORT1_PIN_LEFT   16
-#define PORT1_PIN_RIGHT  19
+#define PORT1_PIN_LEFT   17
+#define PORT1_PIN_RIGHT  16
 #define PORT1_PIN_POT_X   6
 #define PORT1_PIN_POT_Y   7
 
